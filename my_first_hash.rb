@@ -1,6 +1,6 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
+  books = { "A Song of Ice and Fire" => "George R. R. Martin" }
   
 end
 
